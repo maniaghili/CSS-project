@@ -186,6 +186,7 @@ textarea {
 
 details {
     display: block;
+    
 }
 
 summary {
@@ -317,7 +318,18 @@ body {
     width: 100%;
 }
 
-
+.main-div1{
+    line-height: 2px;
+    text-align: center;
+}
+.main-div2{
+    margin: 20px;
+}
+.main-div2-h5{
+ text-align: center;
+}
+.main-div-0{display: flex;
+justify-content: center;}
 /* Project Responsive */
 
 @media only screen and (max-width: 1200px) {
