@@ -26,7 +26,7 @@ html {
 }
 
 body {
-    margin: 0;
+    margin: 0px  130px;
 }
 
 main {
@@ -279,7 +279,8 @@ body {
     flex-basis: 50%;
 }
 .header-content__wrapper{
-    max-width: 28rem;
+    max-width: 31rem;
+    height: 23rem;
 }
 .header-content__title{
     color: #081D43;
