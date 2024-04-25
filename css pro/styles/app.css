@@ -330,6 +330,7 @@ body {
 }
 .main-div-0{display: flex;
 justify-content: center;}
+.ma{text-align: center;}
 /* Project Responsive */
 
 @media only screen and (max-width: 1200px) {
