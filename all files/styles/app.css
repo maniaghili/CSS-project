@@ -424,13 +424,21 @@ margin-top: 0px;}
 .ffft{margin-top: 0px;}
 .ff{display: flex;
 flex-wrap: wrap;
-justify-content: center;
+justify-content:space-around;
+margin-top: 50px;
+width: 900px;
+margin: auto;
+align-items:baseline;
+
 
 
 
 
 }
-.fffimage{ border-radius: 3px;}
+.fffimage{ border-radius: 2rem;
+    overflow: hidden;
+width: 270px;
+height: 200px;}
 
 
 
