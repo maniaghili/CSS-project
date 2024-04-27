@@ -26,7 +26,7 @@ html {
 }
 
 body {
-    margin: 0px 180px;
+    margin: 0px 20px;
 }
 
 main {
@@ -321,6 +321,7 @@ body {
 /* Works Section */
 .main{
     padding: 6rem 0;
+    margin-bottom: 0%;
 }
 .works{
     text-align: center;
@@ -418,6 +419,18 @@ body {
 text-align: center;
 margin-right: 0px;
 display: none;}
+.sectionn{text-align: center;
+margin-top: 0px;}
+.ffft{margin-top: 0px;}
+.ff{display: flex;
+flex-wrap: wrap;
+justify-content: center;
+
+
+
+
+}
+.fffimage{ border-radius: 3px;}
 
 
 
