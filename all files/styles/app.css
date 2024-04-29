@@ -438,7 +438,11 @@ align-items:baseline;
 .fffimage{ border-radius: 2rem;
     overflow: hidden;
 width: 270px;
-height: 200px;}
+height: 200px;
+margin-bottom: 2rem;}
+
+
+
 
 
 
@@ -468,12 +472,15 @@ height: 200px;}
     .container {
         max-width: 960px;
     }
+    
 }
 
 @media only screen and (max-width: 992px) {
     .container {
         max-width: 720px;
     }
+   
+
 }
 
 @media only screen and (max-width: 768px) {
